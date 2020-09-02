@@ -1,6 +1,14 @@
 <small>[Back To README](https://github.com/maubanel/Barber-Bot) </small>
 
+## Region
 
+## Main Target Audience
+
+## Mood Boards
+
+## Demographics
+
+## Traits, Values & Lifestyles
 
 ## Mood Boards
 

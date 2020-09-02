@@ -17,3 +17,5 @@ I created a collage of various barbershop layouts, styles, and store fronts. I w
 <kbd>
    <img src="images/moodboard.png">
  </kbd>
+
+## Pre-Sketches

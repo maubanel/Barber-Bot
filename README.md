@@ -1,5 +1,5 @@
 # Barber-Bot
-Barber's and bots
+Barber-Bot
 
 # Executive Summary
 

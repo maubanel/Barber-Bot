@@ -4,8 +4,6 @@
 
 ## Main Target Audience
 
-## Mood Boards
-
 ## Demographics
 
 ## Traits, Values & Lifestyles
@@ -17,5 +15,7 @@ I created a collage of various barbershop layouts, styles, and store fronts. I w
 <kbd>
    <img src="images/moodboard.png">
  </kbd>
+
+## Bot Inspiration
 
 ## Pre-Sketches

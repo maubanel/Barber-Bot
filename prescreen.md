@@ -1,11 +1,11 @@
-<small>[Back To README](https://github.com/maubanel/barberbot) </small>
+<small>[Back To README](https://github.com/maubanel/Barber-Bot) </small>
 
 
 
 ## Mood Boards
 
-We have collected a collage of potential styles and aesthetic for our website. Below we have a range of different types of layout and designs.
+I created a collage of various barbershop layouts, styles, and store fronts. I want to set the place where Barber Bot could live and function in. Within my collage you can notice I incoporate a lot of white and black with some wood tones. I love the idea of the barbershop having a modern feel and mimicing an luxury experience.
 
 <kbd>
-   <img src="Images/moodboard.png">
+   <img src="images/moodboard.png">
  </kbd>

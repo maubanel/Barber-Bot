@@ -20,9 +20,9 @@ Income: 60,000 or higher
 
 ## Traits, Values & Lifestyles
 
-Traits:Confident, Goal-oriented, Calculated
-Values: Progressive, 
-Lifestyles: Risk-taker, Fast-paced, High-End
+- Traits: Confident, Goal-oriented, Calculated
+- Values: Progressive, 
+- Lifestyles: Risk-taker, Fast-paced, High-End
 
 
 ## Mood Boards

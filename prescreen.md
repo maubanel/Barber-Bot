@@ -12,11 +12,11 @@ The main target audience for this product are:
 
 ## Demographics
 
-Gender: No specific gender
-Education: High School or higher
-Occupations: White collar professionals
-Age: 20s - 40s
-Income: 60,000 or higher 
+- Gender: No specific gender
+- Education: High School or higher
+- Occupations: White collar professionals
+- Age: 20s - 40s
+- Income: 60,000 or higher 
 
 ## Traits, Values & Lifestyles
 

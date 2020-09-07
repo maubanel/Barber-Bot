@@ -37,4 +37,8 @@ I created a collage of various barbershop layouts, styles, and store fronts. I w
 
 My bot inspiration comes from a helmet and hair dryer. When I visualzie the product I see someone being able to be comfortable sitting up something and the clipper being able to rotate and complete the haircut. This product will only complete certain types of haircuts such bald, fade, and low cuts.
 
+<kbd>
+   <img src="images/typepfhaircuts.png">
+ </kbd>
+ 
 ## Pre-Sketches

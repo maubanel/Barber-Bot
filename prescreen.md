@@ -42,3 +42,7 @@ My bot inspiration comes from a helmet and hair dryer. When I visualzie the prod
  </kbd>
  
 ## Pre-Sketches
+
+<kbd>
+   <img src="images/presketches.png">
+ </kbd>

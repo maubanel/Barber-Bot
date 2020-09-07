@@ -21,8 +21,8 @@ The main target audience for this product are:
 ## Traits, Values & Lifestyles
 
 - Traits: Confident, Goal-oriented, Calculated
-- Values: Progressive, 
-- Lifestyles: Risk-taker, Fast-paced, High-End
+- Values: Progressive, Opportunity
+- Lifestyles: Risk-taker, Fast-paced, Convenience
 
 
 ## Mood Boards
@@ -42,6 +42,8 @@ My bot inspiration comes from a helmet and hair dryer. When I visualzie the prod
  </kbd>
  
 ## Pre-Sketches
+
+My intial sketches are below of what I want Barber-Bot to look like. I also sketched a barbershop layout as well to show how barber-bot could exist in addition to being a at-home device.
 
 <kbd>
    <img src="images/presketches.png">

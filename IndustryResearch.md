@@ -2,7 +2,9 @@
 
 ## Competition
 
-* Martinez Custom Clothier - Local Baton Rouge Business
-* George Bass - Local Baton Rouge Business
-* Men’s Wearhouse / Jos. A. Bank - Chain Store
-* iTailor - Online Store
+-	Remington HC4250
+-	Wahl Self-Cut Personal Haircutting Kit
+-	MANGROOMER Ultimate Pro Self-Haircut Kit
+-	Robocut Haircut
+- The Barber Eliminator
+

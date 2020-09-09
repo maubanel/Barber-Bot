@@ -13,7 +13,7 @@
 ## Industry
 
 
-## Competition
+## Competition (add links)
 
 -	Remington HC4250
 -	Wahl Self-Cut Personal Haircutting Kit

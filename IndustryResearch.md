@@ -1,5 +1,18 @@
 <small>[Back To README](https://github.com/maubanel/Barber-Bot) </small>
 
+
+## Brand
+
+
+## Culture
+
+
+## Reputation  
+
+
+## Industry
+
+
 ## Competition
 
 -	Remington HC4250

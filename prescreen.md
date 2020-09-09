@@ -14,13 +14,13 @@ The main target audience for this product are:
 
 - Gender: No specific gender
 - Education: High School or higher
-- Occupations: White collar professionals
+- Occupations: White collar professionals, 
 - Age: 20s - 40s
 - Income: 60,000 or higher 
 
 ## Traits & Lifestyles
 
-- Traits: Confident, Goal-oriented, Calculated
+- Traits: Technophile, Confident, Goal-oriented, Calculated
 - Lifestyles: Risk-taker, Fast-paced, Convenience
 
 

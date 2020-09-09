@@ -24,7 +24,7 @@ The main target audience for this product are:
 - Lifestyles: Risk-taker, Fast-paced, Convenience
 
 
-## Mood Boards
+## Mood Board
 
 I created a collage of various barbershop layouts, styles, and store fronts. I wanted to set the tone and place of where Barber Bot could live and function in addition to being a at-home device. Within my collage you will notice I incoporated a lot of white and black with some wood tones. I love the idea of the barbershop having a modern feel and mimicing an luxury experience.
 

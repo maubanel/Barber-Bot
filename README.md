@@ -14,14 +14,12 @@ Barber Bot
 [PreScreen](https://github.com/maubanel/Barber-Bot/blob/master/prescreen.md)
 
 ## Industry Research
-
+[Industry Research](https://github.com/maubanel/Barber-Bot/blob/master/IndustryResearch.md)
 
 ## Information Architecture
 
 
-
 ## User Research
-
 
 
 ## 3-D Visual Design

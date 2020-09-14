@@ -11,6 +11,7 @@
 
 
 ## Industry
+Personal Care Services
 
 
 ## Competition (add links)

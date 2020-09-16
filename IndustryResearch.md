@@ -22,6 +22,7 @@ Personal Care Services
 - [The Barber Eliminator](https://www.hammacher.com/product/barber-eliminator)
 
 ## User Personas
+Pre Assumptions of what users would be interested in using the Barber-Bot
 
 <kbd>
    <img src="images/personas.png">

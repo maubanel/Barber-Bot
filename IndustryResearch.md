@@ -2,13 +2,13 @@
 
 
 ## Brand
-
+The Barber-Bot is a luxury futuristic self-haircutting product for those indivduals looking for a barbership experience at home.
 
 ## Culture
-
+Portable and Luxury
 
 ## Reputation  
-
+Barber-Bot will have a reputation of reliability.
 
 ## Industry
 Personal Care Services

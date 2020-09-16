@@ -18,6 +18,8 @@ Barber Bot
 
 ## Information Architecture
 
+## UX Reasearch
+[UX Research](UXResearch.md)
 
 ## User Research
 

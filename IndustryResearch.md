@@ -24,6 +24,5 @@ Personal Care Services
 ## User Personas
 Pre Assumptions of what users would be interested in using the Barber-Bot.
 
-
-   <img src="images/personas.png">
+ <img src="images/personas.png">
 

@@ -3,5 +3,5 @@
 ## Transparent OLED Display
 
 <kbd>
-   <img src="images/personas.png">
+   <img src="images/TransparentOLED.jpg">
  </kbd>

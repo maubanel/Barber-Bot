@@ -14,3 +14,7 @@
 
 ## Implement Display into Helmet Seamlessly
 ![Seemless Display Integration](images/Seamless.jpg)
+
+## Deep Flat Colors
+![Deep Flat Colors](images/DeepFlatColor.png)
+

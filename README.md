@@ -18,10 +18,9 @@ Barber Bot
 
 ## Information Architecture
 
-## UX Reasearch
-[UX Research](UXResearch.md)
+## UX Research
 
-## User Research
+[UX Research](UXResearch.md)
 
 
 ## 3-D Visual Design

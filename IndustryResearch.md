@@ -13,6 +13,8 @@ Barber-Bot will have a reputation of reliability.
 ## Industry
 Personal Care Services
 
+https://datausa.io/profile/soc/barbers#about
+
 
 ## Competition (add links)
 

@@ -2,6 +2,6 @@
 
 ## Pre-Model Ideas
 
-<img src="images/sideview.png">
+<img src="images/sideview.PNG">
 
-<img src="images/underview.png">
+<img src="images/underview.PNG">

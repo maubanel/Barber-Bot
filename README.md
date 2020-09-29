@@ -24,6 +24,6 @@ Barber Bot
 
 
 ## 3-D Visual Design
-
+[3-D Visual Design](3dvisualdesign.md)
 
 ## Refinement 

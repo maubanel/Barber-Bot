@@ -11,9 +11,8 @@ Portable and Luxurious
 Barber-Bot will have a reputation of reliability.
 
 ## Industry
-Personal Care Services
+[Personal Care Services](https://datausa.io/profile/soc/barbers#about)
 
-https://datausa.io/profile/soc/barbers#about
 - TOTAL WORKFORCE - 80k
 - AVERAGE AGE - 39.9
 - AVERAGE SALARY - $27,388

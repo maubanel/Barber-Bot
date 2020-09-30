@@ -8,7 +8,7 @@ The Barber-Bot is a luxury futuristic self-haircutting product for those indivdu
 Portable and Luxurious
 
 ## Reputation  
-Barber-Bot will have a reputation of reliability.
+Barber-Bot will have a reputation of reliability and offering convenience. Providing consistent quality haircuts all while being safe in your home or setting of choice.
 
 ## Industry
 [Personal Care Services](https://datausa.io/profile/soc/barbers#about)

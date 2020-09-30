@@ -21,7 +21,7 @@ https://datausa.io/profile/soc/barbers#about
 - AVERAGE FEMALE SALARY - $23,037
 
 
-## Competition (add links)
+## Competition
 
 -	[Remington HC4250](https://www.remingtonproducts.com/products/mens/clippers-and-trimmers/hair-clippers/hc4250-shortcut-clipper-pro.aspx)
 -	[Wahl Self-Cut Personal Haircutting Kit](https://wahlusa.com/products/self-cut-pro-79467.html)
@@ -29,7 +29,7 @@ https://datausa.io/profile/soc/barbers#about
 - [The Barber Eliminator](https://www.hammacher.com/product/barber-eliminator)
 
 ## User Personas
-Pre Assumptions of what users would be interested in using the Barber-Bot.
+Pre Assumptions of what users would be interested in using the Barber-Bot
 
  <img src="images/personas.png">
 

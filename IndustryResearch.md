@@ -11,8 +11,8 @@ Portable and Luxurious
 Barber-Bot will have a reputation of reliability and providing convenience. Providing consistent quality haircuts all while being safe in your home or setting of choice.
 
 ## Industry
-[Personal Care Services](https://datausa.io/profile/soc/barbers#about)
- Upon researching the the Personal Care Services industry you will conclude this industry is open to anyone willing to learn and perfect a skill. The barber industry is based upon getting your certificate in your state and then you are able to start perfecting your craft.
+
+Upon researching the the [Personal Care Services](https://datausa.io/profile/soc/barbers#about) industry you will conclude this industry is open to anyone willing to learn and perfect a skill. The barber industry is based upon getting your certificate in your state and then you are able to start perfecting your craft.
 
 - TOTAL WORKFORCE - 80k
 - AVERAGE AGE - 39.9

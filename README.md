@@ -17,6 +17,7 @@ Barber Bot
 [Industry Research](https://github.com/maubanel/Barber-Bot/blob/master/IndustryResearch.md)
 
 ## Information Architecture
+[Information Architecture](https://github.com/maubanel/Barber-Bot/blob/master/InformationArchitecture.md)
 
 ## UX Research
 

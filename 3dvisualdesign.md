@@ -5,3 +5,7 @@ Here is a first pass of what Barber-Bot is shaping to look like. I decided to 3-
 
 <img src="images/premodels.png">
 
+## Color Palette
+
+<img src="images/palette_1withfont.png">
+<img src="images/palette_2withfont.png">

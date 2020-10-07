@@ -1,5 +1,30 @@
 # UX Research
 
+## User Champion
+The User Champions of this project are myself because we are keeping the end-user in mind the entire time and not just the re-design. We want to make sure the website experience overall turns into the end user coming to the in-store location. We are constantly evaluating styles and tactics to pull those customers in such as offering more imformation with pictures than words.
+
+## User Interviews (For Barbers)
+Questions 
+- How often do you get new customers ?
+- How often do you use razors versus scissors ?
+- Average time you spend per haircut on a customer ?
+- How many trimmers do you use ? Range ?
+- Describe your ideal customer ?
+- What is a fair haircut price for your labor ?
+- How do deal with new clients or children ? Techniques ?
+- How many customers are getting fades or bald cuts ?
+- How often do you have to adjust your skills to the latest trends ?
+- Do you often recommend styles or follow a customer's directions ?
+- How do you deal when you make a mistake ?
+- Does hair type factor into a haircut ?
+- How much of the experience is the haircut and is social ?
+
+## User Interviews (For Customers)
+Questions 
+
+
+
+
 ## Transparent OLED Display
 
 ![TransparentOLED](images/TransparentOLED.jpg)

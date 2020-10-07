@@ -24,7 +24,7 @@ Barber Bot
 [UX Research](UXResearch.md)
 
 
-## 3-D Visual Design
+## 3-D & Visual Design
 [3-D Visual Design](3dvisualdesign.md)
 
 ## Refinement 

@@ -1,8 +1,5 @@
 # UX Research
 
-## User Champion
-The User Champions of this project are myself because we are keeping the end-user in mind the entire time and not just the re-design. We want to make sure the website experience overall turns into the end user coming to the in-store location. We are constantly evaluating styles and tactics to pull those customers in such as offering more imformation with pictures than words.
-
 ## User Interviews (For Barbers)
 Questions 
 - How often do you get new customers ?

@@ -18,7 +18,19 @@ Questions
 
 ## User Interviews (For Customers)
 Questions 
-
+- How often do you go to the barbershop ?
+- Do you select your own haircut or  do you let your barber decide ?
+- How far would you travel to go to a barber ?
+- Do you enjoy the chit-chat with the barber or prefer silence ?
+- What day of the week do you prefer to get a haircut on ?
+- What haircut tool do you prefer ? Razor or Scissors
+- What is your limit you would spend on a haircut ?
+- How often do you try a new haircut style ?
+- In order of importance which of the following are the most important factors in relation to your expectation of your local barbershop ? (Atmopshere, The Barber, Location, Price or Customer Service)
+- Do you ever recieve any other services when you go to your barber ? Ex: Shampooing
+- Do you have any anxiety or phobias when you visit your babrer ?
+- Do you schedule appointments or do you walk-in ?
+- Do you care about the gender of your barber ?
 
 
 

@@ -5,7 +5,7 @@ Questions
 - How often do you get new customers ?
 - How often do you use razors versus scissors ?
 - Average time you spend per haircut on a customer ?
-- How many trimmers do you use ? Range ?
+- How many clipper guards do you use ? Most popular ?
 - Describe your ideal customer ?
 - What is a fair haircut price for your labor ?
 - How do deal with new clients or children ? Techniques ?

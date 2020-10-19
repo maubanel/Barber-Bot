@@ -1,6 +1,8 @@
 # Barber-Bot
 Barber-Bot
 
+<img src="images/logo.png">
+
 # Executive Summary
 
 Roderick Wilkins

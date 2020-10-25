@@ -16,6 +16,9 @@ Questions
 - Does hair type factor into a haircut ?
 - How much of the experience is the haircut and is social ?
 
+<img src="images/slide2.png">
+<img src="images/slide3.png">
+
 ## User Interviews (For Customers)
 Questions 
 - How often do you go to the barbershop ?

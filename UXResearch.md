@@ -16,8 +16,8 @@ Questions
 - Does hair type factor into a haircut ?
 - How much of the experience is the haircut and is social ?
 
-<img src="images/slide2.png">
-<img src="images/slide3.png">
+<img src="images/Slide2.png">
+<img src="images/Slide3.png">
 
 ## User Interviews (For Customers)
 Questions 
@@ -35,7 +35,8 @@ Questions
 - Do you schedule appointments or do you walk-in ?
 - Do you care about the gender of your barber ?
 
-
+<img src="images/Slide4.png">
+<img src="images/Slide5.png">
 
 ## Transparent OLED Display
 

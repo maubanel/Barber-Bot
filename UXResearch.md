@@ -35,8 +35,8 @@ Questions
 - Do you schedule appointments or do you walk-in ?
 - Do you care about the gender of your barber ?
 
-<img src="images/Slide4.png">
-<img src="images/Slide5.png">
+<img src="images/slide4.png">
+<img src="images/slide5.png">
 
 ## Transparent OLED Display
 

@@ -1,4 +1,5 @@
 # UX Research
+I surveyed multiple barbers in the local Baton Rouge area and customers who get haircuts. 
 
 ## User Interviews (For Barbers)
 Questions 

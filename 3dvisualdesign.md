@@ -26,3 +26,6 @@ Below I have my updated Barber-Bot UI designs with the chosen color pallet. I wa
 
 <img src="images/updatewirframe1.png">
 <img src="images/updatewirframe2.png">
+
+View updated UI
+https://github.com/maubanel/Barber-Bot/blob/master/Barberbot.xd

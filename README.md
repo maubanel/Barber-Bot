@@ -28,3 +28,4 @@ Barber Bot
 [3-D Visual Design](3dvisualdesign.md)
 
 ## Refinement 
+<img src="images/bbbox.jpg">

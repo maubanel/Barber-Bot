@@ -31,5 +31,7 @@ Barber Bot
 <img src="images/bbbox.jpg">
 
 <figure class="video_container">
-  <iframe src="https://lsu.app.box.com/embed/s/dxuid4if3rrg0w6i50anih0spqv9csft" frameborder="0" allowfullscreen="true"> </iframe>
+  <video controls="true" allowfullscreen="true" poster="path/to/poster_image.png">
+    <source src="https://lsu.app.box.com/embed/s/dxuid4if3rrg0w6i50anih0spqv9csft" type="video/mov">
+  </video>
 </figure>

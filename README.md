@@ -28,10 +28,8 @@ Barber Bot
 [3-D Visual Design](3dvisualdesign.md)
 
 ## Refinement 
+[Barber-Bot Tutorial Video](https://lsu.box.com/s/dxuid4if3rrg0w6i50anih0spqv9csft)
+[Barber-Bot Voice Command Experience Video](https://lsu.box.com/s/fiyxcsd92hlnrgrdeg2cfovxq9hxq48q)
+
 <img src="images/bbbox.jpg">
 
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="path/to/poster_image.png">
-    <source src="https://lsu.app.box.com/embed/s/dxuid4if3rrg0w6i50anih0spqv9csft" type="video/mov">
-  </video>
-</figure>

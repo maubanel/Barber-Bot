@@ -11,25 +11,24 @@ Barber Bot
 
 
 ## PreScreen 
-[PreScreen](https://github.com/maubanel/Barber-Bot/blob/master/prescreen.md)
+### [PreScreen](https://github.com/maubanel/Barber-Bot/blob/master/prescreen.md)
 
 ## Industry Research
-[Industry Research](https://github.com/maubanel/Barber-Bot/blob/master/IndustryResearch.md)
+### [Industry Research](https://github.com/maubanel/Barber-Bot/blob/master/IndustryResearch.md)
 
 ## Information Architecture
-[Information Architecture](https://github.com/maubanel/Barber-Bot/blob/master/InformationArchitecture.md)
+### [Information Architecture](https://github.com/maubanel/Barber-Bot/blob/master/InformationArchitecture.md)
 
 ## UX Research
-
-[UX Research](UXResearch.md)
+### [UX Research](UXResearch.md)
 
 
 ## 3-D & Visual Design
-[3-D Visual Design](3dvisualdesign.md)
+### [3-D Visual Design](3dvisualdesign.md)
 
 ## Refinement 
-[Barber-Bot Tutorial Video](https://lsu.box.com/s/dxuid4if3rrg0w6i50anih0spqv9csft)
-[Barber-Bot Voice Command Experience Video](https://lsu.box.com/s/fiyxcsd92hlnrgrdeg2cfovxq9hxq48q)
+### [Barber-Bot Tutorial Video](https://lsu.box.com/s/dxuid4if3rrg0w6i50anih0spqv9csft)
+### [Barber-Bot Voice Command Experience Video](https://lsu.box.com/s/fiyxcsd92hlnrgrdeg2cfovxq9hxq48q)
 
 <img src="images/bbbox.jpg">
 

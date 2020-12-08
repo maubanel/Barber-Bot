@@ -1,18 +1,24 @@
 <small>[Back To README](https://github.com/maubanel/Barber-Bot) </small>
 
 ## Model Iterations
-Phase 1: Here is a first pass of what Barber-Bot is shaping to look like. I decided to 3-D model Barber-Bot in Houdini. I was mainly inspired from a helmet and below are some screenshots of what I created so far. Later iterations are currently in progress.
+Iteration 1: Here is a first pass of what Barber-Bot is shaping to look like. I decided to 3-D model Barber-Bot in Houdini. I was mainly inspired from a helmet and below are some screenshots of what I created so far. Later iterations are currently in progress.
 
 <img src="images/premodels.png">
 
-Phase 2 : Here is a second pass of what Barber-Bot is shaping to look like. I am continuing to 3-D model Barber-Bot in Houdini. I have spherical shape with clear glass visor on the front to display the UI screen.
+Iteration 2 : Here is a second pass of what Barber-Bot is shaping to look like. I am continuing to 3-D model Barber-Bot in Houdini. I have spherical shape with clear glass visor on the front to display the UI screen.
 <img src="images/modelprogress.png">
 
-Phase 3 : Here is my third pass of what Barber-Bot is shaping to look like. I have fleshed out the model and color choices. The main helmet is attached is a base with wheels so the device has mobility. 
+Iteration 3 : Here is my third pass of what Barber-Bot is shaping to look like. I have fleshed out the model and color choices. The main helmet is attached is a base with wheels so the device has mobility. 
 
 <img src="images/updated1.png">
 <img src="images/updated2.png">
 <img src="images/updated3.png">
+
+Iteration 4: Here is my final pass of what Barber-Bot has come to look like. The model is finished with a living set up to let you know the type pf experience Barber-Bot will be planning.
+<img src="images/front_view.png">
+<img src="images/front_shot2.png">
+<img src="images/wide_shot.jpg">
+<img src="images/side_shot.png">
 
 ## Color Palette
 

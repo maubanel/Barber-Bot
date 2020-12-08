@@ -26,7 +26,7 @@ Barber Bot
 ## 3-D & Visual Design
 ### [3-D Visual Design](3dvisualdesign.md)
 
-## Refinement 
+## UI Experience and Mockup 
 ### [Barber-Bot Tutorial Video](https://lsu.box.com/s/dxuid4if3rrg0w6i50anih0spqv9csft)
 ### [Barber-Bot Voice Command Experience Video](https://lsu.box.com/s/fiyxcsd92hlnrgrdeg2cfovxq9hxq48q)
 

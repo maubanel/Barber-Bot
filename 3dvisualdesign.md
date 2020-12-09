@@ -33,5 +33,8 @@ Below I have my updated Barber-Bot UI designs with the chosen color pallet. I wa
 <img src="images/updatewirframe1.png">
 <img src="images/updatewirframe2.png">
 
-View updated UI
+Download and view updated UI
 https://github.com/maubanel/Barber-Bot/blob/master/Barberbot.xd
+
+Download and view Houdini Files
+https://lsu.box.com/s/ub2h4qsb7l1esok2vrefpvcmbc9am6ob

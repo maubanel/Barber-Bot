@@ -27,8 +27,11 @@ Here is the color palette that will be used in the UI system which will be seen 
 <img src="images/newpalette_1withfont.png">
 
 
-## Visual Designs (First Round)
+## Visual Designs 
 Below I have my updated Barber-Bot UI designs with the chosen color pallet. I wanted to find a balance in colors because I didnt want the designs to be too masculine because I want this prodcut to be used by anyone.
+
+The UI will funtion as a touch screen display and as a person selects an option it will be grayed out to indicate a selection has been made. To deselect you would just press your selection again. There will be a on screen keyboard to input your name and information on the create profile screen. If you are using the voice command you can always verify what is spoken becuase it show you what was interperted on the screen before proceeding.
+
 
 <img src="images/updatewirframe1.png">
 <img src="images/updatewirframe2.png">

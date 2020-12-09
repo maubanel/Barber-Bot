@@ -39,24 +39,22 @@ Questions
 <img src="images/slide4.png">
 <img src="images/slide5.png">
 
+## Analysis
+Some of the keys learnings I gathered from the research is how grooming is a vital part of human life. From the barbers persepctive I learned that technique and consistency is the key to obtaining and retaining customers. Technique because its your skills that measures your talent and consistency that ensures you perform it everytime. Additionally, from the data I learned the average haircut is about 30 mins and most barbers are adjusting thei skills to keep up with trends. Also, hair type does matter and can impact the length of the haircut and most barbers like to socialize with their client during the haircut, it helps build a relationship. To my surprise from the data most customers enjoy the socializing as well. From the data I learned most people go to the barbershop every 2 weeks and prefer to travel short distancing for a haircut. I learned trying a new haircut isnt always a thing but does happen occasionaly. This research helped guide my UI in the right direction.
+
+## Voice Control
+Barber-Bot will have the ability for you have your experience done in voice command. In addition, to be having a touch UI screen the voice commands will help provide a more traditional barbershop experience. The voice command will listen and perform the task being spoken. Voice command also help with accessibility in allowing visually inpaired users to use Barber-Bot.
+
 ## Transparent OLED Display
 
 ![TransparentOLED](images/TransparentOLED.jpg)
 
 ![Transparent On Eye](images/TransparentOnEye.jpg)
 
-
 [Video of Transparent Display in Action](https://www.youtube.com/watch?time_continue=111&v=_lT-YdomsIE&feature=emb_logo)
-
-
-> There are two major see-through display technologies, LCD and LED. The LCD technology is older, though OLED see-through displays are becoming more widely available. Both technologies are largely derivative from conventional display systems, but in see-through displays the difference between the absorptive nature of the LCD and emissive nature of the OLED gives them very different visual appearances. LCD systems impose a pattern of shading and colors on the background seen through the display, while OLED systems impose a glowing image pattern on the background. - wikipedia
 
 ## Implement Display into Helmet Seamlessly
 ![Seemless Display Integration with Always On Display](images/Seamless.jpg)
 
 ## Deep Flat Colors
 ![Deep Flat Colors](images/DeepFlatColor.png)
-
-## Voice Control
-Voice control with some kind of visual feedback that the user can see with helmet on?
-

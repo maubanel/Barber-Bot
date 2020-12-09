@@ -16,9 +16,9 @@ Upon researching the the [Personal Care Services](https://datausa.io/profile/soc
 
 - TOTAL WORKFORCE - 80k
 - AVERAGE AGE - 39.9
-- AVERAGE SALARY - $27,388
-- AVERAGE MALE SALARY - $28,706
-- AVERAGE FEMALE SALARY - $23,037
+- AVERAGE SALARY - 27,388
+- AVERAGE MALE SALARY - 28,706
+- AVERAGE FEMALE SALARY - 23,037
 
 
 ## Competitors

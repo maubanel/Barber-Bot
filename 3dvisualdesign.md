@@ -14,7 +14,8 @@ Iteration 3 : Here is my third pass of what Barber-Bot is shaping to look like. 
 <img src="images/updated2.png">
 <img src="images/updated3.png">
 
-Iteration 4: Here is my final pass of what Barber-Bot has come to look like. The model is finished with a living set up to let you know the type pf experience Barber-Bot will be planning.
+Iteration 4: Here is my final pass of what Barber-Bot has come to look like. The stand Barber-Bot on is to improve functionailty and mobility. You can adjust the height and tailor the position to ensure your comfort while using Barber-Bot. This is important because Barber-Bot is all about luxury at home barbershop experience.
+
 <img src="images/front_view.png">
 <img src="images/front_shot2.png">
 <img src="images/wide_shot.jpg">
